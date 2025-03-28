@@ -217,7 +217,7 @@ footer {
   font-size: 14px;
 }
 
-/* Design responsivo */
+/* MOBILE */
 @media (max-width: 768px) {
   .navbar {
       flex-direction: column;
@@ -235,7 +235,7 @@ footer {
       position: relative;
       margin: 10px 0;
       height: auto;
-      width: 3vw; /* La dimensione del logo varia con la larghezza della finestra */
+      width: 3vw;
       max-width: 30px;
   }
 
